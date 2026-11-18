@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "rustcraft",
+  "version": "${version}",
+  "name": "RustCraft",
+  "description": "Режим в стиле Rust: план строительства, C4-рейды, аирдропы, радиация, случайный спавн.",
+  "authors": [],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["dev.rustcraft.RustCraft"],
+    "client": ["dev.rustcraft.RustCraftClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "minecraft": "~1.21.4",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

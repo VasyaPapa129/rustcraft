@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GRG",
+    "RTR",
+    "GRG"
+  ],
+  "key": {
+    "G": "minecraft:gunpowder",
+    "R": "minecraft:redstone",
+    "T": "minecraft:tnt"
+  },
+  "result": {
+    "id": "rustcraft:c4",
+    "count": 1
+  }
+}

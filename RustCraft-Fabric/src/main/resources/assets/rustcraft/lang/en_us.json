@@ -1,0 +1,12 @@
+{
+  "item.rustcraft.building_plan": "Building Plan",
+  "item.rustcraft.hammer": "Hammer",
+  "item.rustcraft.c4": "C4",
+  "block.rustcraft.wood_block": "Wooden Structure",
+  "block.rustcraft.stone_block": "Stone Structure",
+  "block.rustcraft.metal_block": "Metal Structure",
+  "block.rustcraft.wood_stairs": "Wooden Stairs",
+  "block.rustcraft.stone_stairs": "Stone Stairs",
+  "block.rustcraft.metal_stairs": "Metal Stairs",
+  "block.rustcraft.cupboard": "Tool Cupboard"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:iron_ingot",
+    "minecraft:stick"
+  ],
+  "result": {
+    "id": "rustcraft:hammer",
+    "count": 1
+  }
+}

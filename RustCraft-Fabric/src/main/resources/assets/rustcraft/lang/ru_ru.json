@@ -1,0 +1,12 @@
+{
+  "item.rustcraft.building_plan": "План строительства",
+  "item.rustcraft.hammer": "Молоток",
+  "item.rustcraft.c4": "C4",
+  "block.rustcraft.wood_block": "Деревянная постройка",
+  "block.rustcraft.stone_block": "Каменная постройка",
+  "block.rustcraft.metal_block": "Металлическая постройка",
+  "block.rustcraft.wood_stairs": "Деревянная лестница",
+  "block.rustcraft.stone_stairs": "Каменная лестница",
+  "block.rustcraft.metal_stairs": "Металлическая лестница",
+  "block.rustcraft.cupboard": "Шкаф"
+}
